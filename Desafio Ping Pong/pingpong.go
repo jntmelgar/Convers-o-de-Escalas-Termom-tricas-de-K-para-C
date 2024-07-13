@@ -12,7 +12,7 @@ func ping(p chan string, c chan string) {
 	}
 }
 func imprimir(p chan string, c chan string) {
-	for i := 0; ; i++ {
+	for {
 		msg1 := <-p
 		msg2 := <-c
 		fmt.Println(msg1)
