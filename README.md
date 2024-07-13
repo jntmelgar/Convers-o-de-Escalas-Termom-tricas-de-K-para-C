@@ -1,5 +1,4 @@
 # Projetos da Jornada de Estudo em GO
-/usr/bin/bash: line 1: w: command not found
 Este repositório contém os projetos desenvolvidos durante minha jornada de estudo em GO (Golang). Aqui, você encontrará desafios de código e projetos práticos que abrangem diversos conceitos fundamentais da linguagem Go.
 
 ## O que está sendo estudado
